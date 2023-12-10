@@ -1,4 +1,4 @@
-# Customer_Behaviour_Analysis - MySQL WORLBENCH
+# Customer_Behaviour_Analysis - MySQL WORKBENCH
 
 This project is based on a case study that can be accessed by this [link](https://8weeksqlchallenge.com/case-study-1/). It focuses on examining patterns, trends, and factors influencing customer spending to gain insights into their preferences, purchasing habits, and potential areas for improvement in menu offerings or marketing strategies in a dining establishment.
 
